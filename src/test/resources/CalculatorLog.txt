@@ -1,0 +1,24 @@
+13:16:56,991 DEBUG SeleniumFunctions:14 – open url
+13:16:59,525  INFO calculatorTest:41 – Entering postive test case
+13:16:59,525 DEBUG SeleniumFunctions:24 – enter operand 1 function entered
+13:17:01,667  INFO calculatorTest:44 – Operand 1 entered
+13:17:01,668 DEBUG SeleniumFunctions:29 – enter operand 2 function entered
+13:17:01,793  INFO calculatorTest:46 – Operand 2 entered
+13:17:01,794 DEBUG SeleniumFunctions:52 – seleniumWait function entered
+13:17:01,805 DEBUG SeleniumFunctions:39 – selectDropdown function entered
+13:17:01,935  INFO calculatorTest:49 – operator selected
+13:17:03,935 DEBUG SeleniumFunctions:19 – click go button function entered
+13:17:04,019  INFO calculatorTest:52 – Go button clicked
+13:17:06,020 DEBUG SeleniumFunctions:34 – getvalue function entered
+13:17:06,077  INFO calculatorTest:41 – Entering postive test case
+13:17:06,078 DEBUG SeleniumFunctions:24 – enter operand 1 function entered
+13:17:08,150  INFO calculatorTest:44 – Operand 1 entered
+13:17:08,150 DEBUG SeleniumFunctions:29 – enter operand 2 function entered
+13:17:08,226  INFO calculatorTest:46 – Operand 2 entered
+13:17:08,227 DEBUG SeleniumFunctions:52 – seleniumWait function entered
+13:17:08,233 DEBUG SeleniumFunctions:39 – selectDropdown function entered
+13:17:08,387  INFO calculatorTest:49 – operator selected
+13:17:10,388 DEBUG SeleniumFunctions:19 – click go button function entered
+13:17:10,466  INFO calculatorTest:52 – Go button clicked
+13:17:12,467 DEBUG SeleniumFunctions:34 – getvalue function entered
+13:17:12,854 DEBUG SeleniumFunctions:46 – closeBrowser function entered
