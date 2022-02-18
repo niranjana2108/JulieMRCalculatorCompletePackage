@@ -13,6 +13,7 @@ public class BaseDriver {
 		//chrome driver
 		System.setProperty("webdriver.chrome.driver", configFileUtility.getDriverPath());
 		driver = new ChromeDriver();
+		//this is test
 	}
 
 }
